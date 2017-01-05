@@ -1,0 +1,1 @@
+create table jos (j1 number, j2 date);
